@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">etc</string>
+    <string name="search_text">搜索</string>
+    <string name="fa_bullhorn">{fa-bullhorn}</string>
+    <string name="icon_scan">{fa-barcode-read}</string>
+    <string name="fa_qrcode">{fa-qrcode}</string>
+</resources>

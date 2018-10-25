@@ -1,0 +1,22 @@
+{
+    "code" : 0,
+    "message" : "OK",
+    "data" : [
+        {
+            "title" : "商品标题1",
+            "desc" : "商品1的详细描述",
+            "id" : 1,
+            "price" : 79,
+            "count" : 1,
+            "thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1538822443583%26di%3D6499b185513f47cb3cae6fb82d2a1e96%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg14.360buyimg.com%252Fn1%252Fs350x449_jfs%252Ft15724%252F306%252F768405224%252F56547%252F4833db70%252F5a3cd022N0180ab8c.jpg%252521cc_350x449.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFuXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D721808238%2C1188001757%26fm%3D26%26gp%3D0.jpg"
+        },
+        {
+            "title" : "商品标题2",
+            "desc" : "商品2的详细描述",
+            "id" : 2,
+            "price" : 376,
+            "count" : 1,
+            "thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1538822669274%26di%3Df9ea5f18156ed686072ae1230413f09e%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fwww.t-jiaju.com%252FtujjJDA0JDIxL1RCMUJLVzdJViQ2YzBhJDYkNlhYWF8hISQz.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFvXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D4293190389%2C2867453564%26fm%3D26%26gp%3D0.jpg"
+        },
+    ]
+}

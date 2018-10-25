@@ -1,0 +1,70 @@
+{
+    "total": 100,
+    "page_size" : 6,
+    "data" :[
+        {
+            "goodsId" : 0,
+            "spanSize" : 4,
+                "banners" : [
+                "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537197484320%26di%3Da4535325c8f3487780a977b654e2af89%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fec8.images-amazon.com%252Fimages%252FI%252F61JDefvenPL._SL1500_.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFuXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2298660876%2C3486706809%26fm%3D26%26gp%3D0.jpg",
+                "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537197836601%26di%3Dc0003dcbe1d2d85f2b7a2bedd797491d%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fstatic.loupan.com%252Fupfile2%252Fimage%252F20171117%252F20171117162219_3505142.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFuXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D1610843275%2C3081146246%26fm%3D26%26gp%3D0.jpg",
+                "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537197936301%26di%3D358e2984702665aebd828fb398141c01%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg1.cache.netease.com%252Fcatchpic%252F9%252F9B%252F9B9B1FA52CFF6E3A5124CC619318B4B1.jpg&thumburl=https%3A%2F%2Fss2.bdstatic.com%2F70cFvnSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D39277604%2C1533398358%26fm%3D26%26gp%3D0.jpg"
+                ]
+        },
+        {
+            "goodsId" : 1,
+            "text" : "airpods",
+            "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537198077752%26di%3D4a4d28b110022077089525feb87867ac%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fwww.dadou.com%252Fb2b%252Fupload%252FOther%252Fdd2017090600011.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFuHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D3677430257%2C1306292823%26fm%3D26%26gp%3D0.jpg",
+            "spanSize" : 4
+        },
+        {
+            "goodsId" : 2,
+            "text" : "民族风拖鞋",
+            "imageUrl" : "https://image.baidu.com/search/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539591912528%26di%3D42f0ba34abdb6fddef1ff730440125e1%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg2.niutuku.com%252Fdesk%252F1207%252F1018%252Fntk123974.jpg&thumburl=https%3A%2F%2Fss2.bdstatic.com%2F70cFvnSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D418259163%2C3789341045%26fm%3D26%26gp%3D0.jpg",
+            "spanSize" : 1
+        },
+        {
+             "goodsId" : 3,
+             "text" : "手机壳",
+             "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539592411780%26di%3D905b6ad9e77106533777f025d0af1ee4%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg.zcool.cn%252Fcommunity%252F01763a5a536e39a80120121f27436d.jpg%25402o.jpg&thumburl=https%3A%2F%2Fss2.bdstatic.com%2F70cFvnSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2521612805%2C1001178609%26fm%3D26%26gp%3D0.jpg",
+             "spanSize" : 1
+        },
+        {
+             "goodsId" : 4,
+             "text" : "有好物",
+             "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539592687724%26di%3D1702c7eafb15426bf6f893a13b5d4aad%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg.zcool.cn%252Fcommunity%252F01a1bd5949ac79a8012193a34dfde8.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFvXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D1781228722%2C136524693%26fm%3D26%26gp%3D0.jpg",
+             "spanSize" : 1
+        },
+        {
+              "goodsId" : 5,
+              "text" : "吃鸡必备",
+              "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539592758069%26di%3D586c0e155a53e7eb740579a656517fe8%26imgtype%3D0%26src%3Dhttp%253A%252F%252F03.imgmini.eastday.com%252Fmobile%252F20180118%252F20180118175551_7eb1ca64fe4d79447a550b7e09939f2d_3.jpeg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D3427140101%2C3877456535%26fm%3D26%26gp%3D0.jpg",
+              "spanSize" : 1
+        },
+        {
+              "goodsId" : 6,
+              "text" : " ",
+              "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539593439753%26di%3D689c75eb113f1d1a82a172eef3fe63e0%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimgqn.koudaitong.com%252Fupload_files%252F2015%252F04%252F22%252FFpgoDXkyKMFPgnOBuCISyJgzE4L7.jpg%252521730x0.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D667584607%2C2607363725%26fm%3D26%26gp%3D0.jpg",
+              "spanSize" : 2
+        },
+        {
+              "goodsId" : 7,
+              "text" : " ",
+              "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539593524213%26di%3D0d66a70ba1b711f0506d024405388b43%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fwww.duobao007.com%252Fwp-content%252Fuploads%252F2017%252F07%252Faa4597c37bcdb7abfbf9a805ff2d1c35.jpg&thumburl=https%3A%2F%2Fss3.bdstatic.com%2F70cFv8Sh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D100801803%2C1628239602%26fm%3D26%26gp%3D0.jpg",
+              "spanSize" : 2
+        },
+        {
+              "goodsId" : 8,
+              "text" : " ",
+              "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539593631338%26di%3D1144b896a0f6b68eae346d3aef896d09%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg2.99114.com%252Fgroup3%252FM00%252F3F%252F5F%252FrBADvVsN8vCAC09LAAMMXnsNtNA168.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D4051197804%2C1838198248%26fm%3D26%26gp%3D0.jpg",
+              "spanSize" : 1
+        },
+        {
+              "goodsId" : 9,
+              "text" : " ",
+              "imageUrl" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539593735953%26di%3D4dc3ca9ff885bf795c5f6b4462f0c772%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg.zcool.cn%252Fcommunity%252F01cc3358edca31a8012049ef6e2b1e.jpg%25401280w_1l_2o_100sh.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFuHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D1484812325%2C297145319%26fm%3D26%26gp%3D0.jpg",
+              "spanSize" : 3
+        },
+
+    ]
+}

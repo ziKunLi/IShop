@@ -1,0 +1,58 @@
+{
+    "code" : 0,
+    "message" : "OK",
+    "data" : [
+        {
+            "id" : 1,
+            "section" : "标题1",
+            "goods" : [
+                {
+                    "goods_id" : 3,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375325789%26di%3D6ac104c76b6ed64e491018575e65dad3%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg10.360buyimg.com%252FpopWaterMark%252Fjfs%252Ft958%252F134%252F1023387655%252F175617%252Fab951b07%252F5569b8f3Nfc4fe808.jpg&thumburl=https%3A%2F%2Fss3.bdstatic.com%2F70cFv8Sh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D1028324880%2C4227849319%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "手机壳"
+                },
+                {
+                    "goods_id" : 4,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375440778%26di%3D0bd6b9b1e016b033412670c3312405d7%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fhimg2.huanqiu.com%252Fattachment2010%252F2015%252F0130%252F20150130081348218.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2889839358%2C186598764%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "显示器"
+                },
+                {
+                    "goods_id" : 5,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375520698%26di%3Dc737e1b0becbe5d5553252d3a759ab95%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fhimg2.huanqiu.com%252Fattachment2010%252F2017%252F0914%252F14%252F49%252F20170914024941776.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFuHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D3542646409%2C4036895857%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "手机"
+                },
+                {
+                    "goods_id" : 6,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375608742%26di%3D5e9647d9e97d2f3ea240c0223614ceed%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fdimg.cnlist.org%252Fimage%252Fupload%252F5d%252F43%252F11%252Fcb%252F5d4311cbc974bf08cddbe3634b4173b0.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFuXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2408160146%2C994167297%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "吊椅"
+                },
+            ]
+        },
+        {
+            "id" : 2,
+            "section" : "标题2",
+            "goods" : [
+                {
+                    "goods_id" : 3,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375325789%26di%3D6ac104c76b6ed64e491018575e65dad3%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fimg10.360buyimg.com%252FpopWaterMark%252Fjfs%252Ft958%252F134%252F1023387655%252F175617%252Fab951b07%252F5569b8f3Nfc4fe808.jpg&thumburl=https%3A%2F%2Fss3.bdstatic.com%2F70cFv8Sh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D1028324880%2C4227849319%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "手机壳"
+                },
+                {
+                    "goods_id" : 3,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375440778%26di%3D0bd6b9b1e016b033412670c3312405d7%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fhimg2.huanqiu.com%252Fattachment2010%252F2015%252F0130%252F20150130081348218.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2889839358%2C186598764%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "显示器"
+                },
+                {
+                    "goods_id" : 5,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375520698%26di%3Dc737e1b0becbe5d5553252d3a759ab95%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fhimg2.huanqiu.com%252Fattachment2010%252F2017%252F0914%252F14%252F49%252F20170914024941776.jpg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFuHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D3542646409%2C4036895857%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "手机"
+                },
+                {
+                    "goods_id" : 6,
+                    "goods_thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1537375608742%26di%3D5e9647d9e97d2f3ea240c0223614ceed%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fdimg.cnlist.org%252Fimage%252Fupload%252F5d%252F43%252F11%252Fcb%252F5d4311cbc974bf08cddbe3634b4173b0.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFuXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2408160146%2C994167297%26fm%3D26%26gp%3D0.jpg",
+                    "goods_name" : "吊椅"
+                },
+            ]
+        },
+    ]
+}

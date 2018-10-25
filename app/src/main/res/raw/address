@@ -1,0 +1,27 @@
+{
+    "code" : 0,
+    "message" : "OK",
+    "data" : [
+        {
+            "id" : 1,
+            "name" : "李自坤",
+            "phone" : "15102347624",
+            "address" : "重庆理工大学",
+            "default" : "true"
+        },
+        {
+            "id" : 2,
+            "name" : "李自坤",
+            "phone" : "15102347624",
+            "address" : "重庆铜梁",
+            "default" : "false"
+        },
+        {
+            "id" : 3,
+            "name" : "李自坤",
+            "phone" : "15102347624",
+            "address" : "巴川街道",
+            "default" : "false"
+       },
+    ]
+}

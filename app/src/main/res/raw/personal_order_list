@@ -1,0 +1,27 @@
+{
+    "code" : 0,
+    "message" : "OK",
+    "data" : [
+        {
+            "id" : 1,
+            "title" : "炉石传说卡包",
+            "price" : 79,
+            "thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539105560525%26di%3D95d920478a56139fc82395f5cd83e98a%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fpic4.zhimg.com%252F59efacbe4afc5e3593c012d7a095d697_r.jpg&thumburl=https%3A%2F%2Fss2.bdstatic.com%2F70cFvnSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D3120262494%2C451707944%26fm%3D26%26gp%3D0.jpg",
+            "time" : "2018-10-3"
+        },
+        {
+            "id" : 2,
+            "title" : "火影手办",
+            "price" : 1200,
+            "thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539105263477%26di%3D13deb9451a572f866957611e55ad5b2f%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fpic.3h3.com%252Fup%252F2013-12%252F2013121684843097190.jpg&thumburl=https%3A%2F%2Fss1.bdstatic.com%2F70cFvXSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D2570754112%2C39955791%26fm%3D26%26gp%3D0.jpg",
+            "time" : "2018-10-4"
+        },
+        {
+            "id" : 3,
+            "title" : "四轴飞行器",
+            "price" : 35.9,
+            "thumb" : "https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1539105486461%26di%3D398b941778a9329298551d2689e2f0cf%26imgtype%3D0%26src%3Dhttp%253A%252F%252Fpic.baike.soso.com%252Fp%252F20140718%252F20140718091213-727370852.jpg&thumburl=https%3A%2F%2Fss2.bdstatic.com%2F70cFvnSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D350174948%2C2553428412%26fm%3D26%26gp%3D0.jpg",
+            "time" : "2018-10-5"
+       },
+    ]
+}
